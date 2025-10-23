@@ -12,9 +12,9 @@ $1973 to $1dff in the tape version.***
 
 ## it is necessary to have seen the video to be able to fully operate the assembler
 
-<video id="meinVideo" width="640" height="360" poster="images/title.png" controls preload="none">
+<video id="tutorial" poster="images/title.png" controls preload="none">
   <source src="images/TinyASM_tutorial.webm" type="video/webm">
-  your browser doesn't support this video format.
+  video is not supported by your browser.
 </video>
 
 
