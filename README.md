@@ -20,11 +20,17 @@ $1973 to $1dff in the tape version.***
 * .I$0a - insert 10 Bytes (255 max)
 * .J$1A00 - jump to address or .J$Mn label $Mn
 * .L“NAME“,8 - load program
+  (.L"NAME",1 in tape version)
 * .S“NAME“,8 - save program
+  (.S"NAME",1 in tape version)
 * .B - switches between code and byte view
 * .T“ABCD…“ - insert text
 * .$01$02$03... - enter bytes directly
 * .Mn – (simple) memory labels - it's better to watch the video for this
 * F1 – start your code
+
+**Note:
+Only hexadecimal numbers are accepted by the assembler.
+*lda #$0a* instead of *lda #10* 
 
 enjoy!
