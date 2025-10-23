@@ -10,7 +10,7 @@ $1973 to $1dff in the tape version.
 it is necessary to have seen the video to be able to fully operate the assembler
 the video is here: https://youtu.be/D-vyuzpaASA?si=e5JTnjxrGlIhkCX4
 
-** here again a quick overview of all functions **
+**here again a quick overview of all functions**
 * .D - delete line
 * .I$0a - insert 10 Bytes (255 max)
 * .J$1A00 - jump to address or .J$Mn label $Mn
