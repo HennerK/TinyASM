@@ -38,6 +38,6 @@ $1973 to $1dff in the tape version.***
 **Note:**
 Only hexadecimal numbers are accepted by the assembler.
 
-*lda #$0a* instead of *lda #10* 
+Use *lda #$0a* instead of *lda #10* 
 
 enjoy!
