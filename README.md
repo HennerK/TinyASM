@@ -1,6 +1,9 @@
 # TinyASM for Commodore VIC20 / VC20 / VC-20
 
+
+<p align="center">
  <img src="images/title.png" alt="TinyASM" width="500" />
+</p>
  
  TINYASM is an assembler for an unexpanded Commodore VIC20, which can be loaded directly from disk or tape without a module or memory expansion.
 
@@ -12,12 +15,9 @@ $1973 to $1dff in the tape version.***
 
 ## it is necessary to have seen the video to be able to fully operate the assembler
 
-<video id="tutorial" poster="images/title.png" controls preload="none">
-  <source src="images/TinyASM_tutorial.webm" type="video/webm">
-  video is not supported by your browser.
-</video>
-
-
+<p align="center">
+<img src="images/TinyASM_tutorial.gif" alt="tutorial" width="500"/>
+</p>
 
 (or watch on YouTube: https://www.youtube.com/watch?v=D-vyuzpaASA )
 
